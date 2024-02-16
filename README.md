@@ -1,8 +1,8 @@
-# Brain Stroke Prediction Study
+# Brain Stroke Prediction 
 
 ## Introduction
 
-This study investigates the potential relationship between work status, hypertension, glucose levels, and the incidence of brain strokes. Utilizing a dataset from Kaggle, we aim to identify significant factors that contribute to the likelihood of brain stroke occurrence. Our focus is on understanding how hypertension and average blood glucose levels interact with work type, potentially influencing stroke risk.
+This project investigates the potential relationship between work status, hypertension, glucose levels, and the incidence of brain strokes. Utilizing a dataset from Kaggle, we aim to identify significant factors that contribute to the likelihood of brain stroke occurrence. Our focus is on understanding how hypertension and average blood glucose levels interact with work type, potentially influencing stroke risk.
 
 ## Data Exploration
 
